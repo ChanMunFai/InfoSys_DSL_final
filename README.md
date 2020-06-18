@@ -6,4 +6,4 @@ GitHub has not rendered the markdown cells with the titles in the Jupyter file s
 
 In this project, we were given a data set of daily exchange rates from Kaggle, and had to conduct our own research into possible reasons for the USD's appreciation during the 2007-08 Financial Crisis. In a short time span of a few weeks, we sourced the rest of the data from different sources (IMF, World Bank) and ran a multivariate linear regression to test for alternative hypotheses. 
 
-I was primarily responsible for data wrangling as well as a large portion of the linear regression. 
+I was primarily responsible for a large portion of the data wrangling, visualisations and linear regression. 
